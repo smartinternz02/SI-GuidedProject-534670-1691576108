@@ -13,3 +13,10 @@ Report Link
 
 Story Link
  <iframe src="https://us1.ca.analytics.ibm.com/bi/?perspective=story&amp;pathRef=.my_folders%2FFinal%2BOnlineEducation%2Bstory&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;sceneId=model00000189e412a520_00000000&amp;sceneTime=5000" width="1320" height="1000" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+
+
+**Public URL of Journey to Cloud: Envisioning Your Solution Course Badge**
+https://www.credly.com/badges/3c6f68fe-1d00-4c55-9b52-c6a7377742d2/public_url
+
+**Public URL of For DA & CAD - Getting Started with Enterprise Data Science Course**
+https://www.credly.com/badges/309c119e-29df-48ed-a85e-6f0c3546e117/public_url
